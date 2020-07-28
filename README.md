@@ -20,6 +20,7 @@ A vulnerability in the web services interface of Cisco Adaptive Security Applian
 Mikhail Klyuchnikov & Ahmed Aboul-Ela
 
 ## REF
+- https://twitter.com/aboul3la/status/1286012324722155525
 - https://nvd.nist.gov/vuln/detail/CVE-2020-3452
 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ro-path-KJuQhB86
 - https://raw.githubusercontent.com/RootUp/PersonalStuff/master/http-vuln-cve2020-3452.nse
